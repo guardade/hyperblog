@@ -1,1 +1,7 @@
 historia.txt
+
+Esta es la historia de Christian G
+
+Christian nació en León y tiene 34 años
+
+Hoy hablaremos de su historia.
